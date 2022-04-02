@@ -1,0 +1,15 @@
+{
+    "configurations": [
+
+
+        {
+            "name": "Python: ozone_config",
+            "args": ["Krasnodar"], 
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+            
+        },
+    ]
+}
